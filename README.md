@@ -1,3 +1,10 @@
-# This is a multipart series to walk you through the various stages of the EDA process.
+# This is a multipart series to walk you through the crucial data engineering tools and skills
 
-Start with the Pandas labs, then move on the the visualization ones (matplotlib, seaborn, plotly).
+Many of these labs are multi-part series, and many of the series build on the previous one. So, in case there's any confusion, the proper order is:
+
+1. Pandas
+2. Matplotlib
+3. Web Scraping
+4. Unstructured Data
+5. Getting Data
+6. AWS
