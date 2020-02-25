@@ -8,3 +8,4 @@ Many of these labs are multi-part series, and many of the series build on the pr
 4. Unstructured Data
 5. Getting Data
 6. AWS
+7. Spark
